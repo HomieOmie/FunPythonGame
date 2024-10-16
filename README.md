@@ -143,6 +143,22 @@ If pip is not installed, you can install it by running:
 python -m ensurepip --upgrade
 ```
 
+### Running the Python Script
+
+Once Python is installed (instructions below), you can run the Python game with the following instructions below!
+
+```
+git clone _URL_ (replace _URL_ with the HTTPS url of the repo)
+cd FunPythonGame
+python main.py
+```
+
+If `python main.py` doesn't work, you can try running `python3 main.py`
+
+After cloning the repository, you only need to run `python/python3 main.py` to play the game again!!
+
+**Enjoy!!!**
+
 ## Additional Resources
 
 - Official Python Documentation: [https://docs.python.org/3/](https://docs.python.org/3/)
